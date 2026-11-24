@@ -1,7 +1,9 @@
-172.16.0.67 IP R2
+192.168.0.71 PC1
 
-192.168.0.1 Default gateway R2
+172.16.0.67 IP R1
 
-172.16.0.1 Default gateway R1
+192.168.0.1 Default gateway R1
 
-172.16.0.3 PC1
+172.16.0.1 Default gateway R2
+
+172.16.0.3 PC2
