@@ -1,0 +1,18 @@
+17:13:02.509  Cliente pronto. Confirme o destino e inicie o servidor antes do teste.
+17:14:26.560  UDP → 172.16.0.3:5000
+17:14:26.666  UDP #01 | RTT 6,79 ms
+17:14:26.864  UDP #02 | RTT 4,23 ms
+17:14:27.064  UDP #03 | RTT 3,34 ms
+17:14:27.264  UDP #04 | RTT 3,85 ms
+17:14:27.466  UDP #05 | RTT 4,60 ms
+17:14:27.666  UDP #06 | RTT 3,25 ms
+17:14:27.867  UDP #07 | RTT 2,97 ms
+17:14:28.067  UDP #08 | RTT 3,65 ms
+17:14:28.268  UDP #09 | RTT 3,17 ms
+17:14:28.471  UDP #10 | RTT 5,86 ms
+17:14:28.670  UDP #11 | RTT 3,73 ms
+17:14:28.872  UDP #12 | RTT 3,63 ms
+17:14:28.877  UDP 12/12 respostas, 0 sem resposta | RTT mín. 2,97, médio 4,09, máx. 6,79 ms
+17:16:56.155  TCP → 172.16.0.3:5000
+17:16:56.284  TCP ACK recebido | bdd98137-wireshark captura do cliente 192.168.0.71.png | 137319 bytes | 76,67 ms
+17:16:56.290  SHA-256 c467377a81249a17ab2ebb9b8543e5003cfbae5e49ef7708667411a4cab67f0c
