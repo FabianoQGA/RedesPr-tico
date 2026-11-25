@@ -11,7 +11,9 @@ https://github.com/FabianoQGA/RedesPr-tico
 Ir para diretório Trabalho_Prático/Aplicacao e digitar:
 
 New-Item -ItemType Directory -Force classes
+
 $fontes = Get-ChildItem .\src -Filter *.java | ForEach-Object { $_.FullName }
+
 javac -encoding UTF-8 --release 17 -d .\classes $fontes
 
 **Para executar:**
